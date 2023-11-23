@@ -1,7 +1,27 @@
 # NLP tools
+
 * segmentation
-  * BERT 
+  * implement with BERT for Traditional Chinese by `CKIP`
+  * requirements
+    ```
+    numpy
+    torch  
+    transformers 
+    ```
 * topic model
-  * BERT
-* tfidf
-  * sklearn   
+  * implement with BERT for Traditional Chinese by `CKIP`
+  * requirements
+    ```
+    hdbscan
+    numpy
+    umap
+    torch
+    tqdm
+    transformers
+    sklearn
+    ``` 
+* tfidf  
+  * requirements
+    ``` 
+    sklearn   
+    ```
